@@ -1,0 +1,14 @@
+INFO - We are here first time
+DEBUG - Custom profile is runorg.openqa.selenium.firefox.FirefoxProfile@272ed83b
+INFO - The browser window is maximized
+INFO - We are here first time
+DEBUG - Custom profile is runorg.openqa.selenium.firefox.FirefoxProfile@272ed83b
+INFO - The browser window is maximized
+INFO - We are here first time
+DEBUG - Custom profile is runorg.openqa.selenium.firefox.FirefoxProfile@272ed83b
+INFO - The browser window is maximized
+INFO - We are here first time
+DEBUG - Custom profile is runorg.openqa.selenium.firefox.FirefoxProfile@272ed83b
+INFO - The browser window is maximized
+INFO - The bookmyshow website is open
+ERROR - We didn't want to close browser
